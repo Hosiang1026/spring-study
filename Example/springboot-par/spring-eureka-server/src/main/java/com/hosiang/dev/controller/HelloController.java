@@ -6,7 +6,7 @@
  * @author Hosiang
  * @date 2018年3月28日 下午2:17:54  
  */
-package com.study.springboot.controller;
+package com.hosiang.dev.controller;
 
 
 import org.slf4j.Logger;
