@@ -7,10 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 
-/*    @Value(value = "${book.author}")
-    private String author;*/
-
-    @RequestMapping("/test")
+    @RequestMapping("/")
     public String Hello() {
         String result = "9001  ";
         System.out.println(result);
