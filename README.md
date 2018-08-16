@@ -1,6 +1,6 @@
 # spring-study
 
-##SringBoot、Spring Cloud
+## SringBoot、Spring Cloud
 
 project-config 项目配置文件
 
