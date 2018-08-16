@@ -11,6 +11,7 @@
     <modules>
         <module>springboot-sub-01</module>
         <module>springboot-sub-02</module>
+        <module>spring-config-server</module>
     </modules>
     <distributionManagement>
         <site>
