@@ -8,7 +8,7 @@
 
 ## [Sring Boot、Spring Cloud](https://github.com/Hosiang1026/spring-study/tree/master/Example/springboot-par)
 
-project-config 项目配置文件
+project-config-file  项目配置文件（存放在GitHub仓库）
 
 spring-eureka-server 注册中心（服务端）
 
