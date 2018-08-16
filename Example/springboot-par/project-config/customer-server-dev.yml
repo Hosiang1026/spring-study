@@ -1,0 +1,7 @@
+spring:
+  application:
+     name: customer-server
+server:
+  port: 9000
+
+myValue: Spring Cloud Config Success !
